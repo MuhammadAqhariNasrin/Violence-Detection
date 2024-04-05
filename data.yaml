@@ -1,0 +1,12 @@
+names:
+- violence
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pose-qq42u
+  url: https://universe.roboflow.com/abm/pose-qq42u/dataset/11
+  version: 11
+  workspace: abm
+test: /content/datasets/roboflow/test/images
+train: /content/datasets/roboflow/train/images
+val: /content/datasets/roboflow/valid/images
